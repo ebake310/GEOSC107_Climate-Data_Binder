@@ -5,4 +5,6 @@ The Analysis Notebook contains a Jupyter Notebook that has been started for the 
 
 The Dataset folder contains all of the datasets used in this laboratory exercise. All datasets are saved as csv files so that students only need to learn one method for importing files using pandas.
 
+The Resources folder contains sources that were used in the development of this laboratory activity. 
+
 Created by Emily Baker @ Hamilton College. Last updated 11/12/2023.
